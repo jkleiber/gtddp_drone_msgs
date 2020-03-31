@@ -56,7 +56,6 @@ add_message_files(
   gain_data.msg
   state_data.msg
   Trajectory.msg
-  Status.msg
 )
 
 ## Generate services in the 'srv' folder
