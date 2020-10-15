@@ -55,6 +55,7 @@ add_message_files(
   gain_vector.msg
   gain_data.msg
   state_data.msg
+  Status.msg
   Trajectory.msg
 )
 
